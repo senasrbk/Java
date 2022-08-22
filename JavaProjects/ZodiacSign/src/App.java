@@ -126,7 +126,10 @@ public class App {
             } else
                 error = true;
         }
-
+        if (error) {
+            System.out.println("Hatalı doğum tarihi");
+        }
+        System.out.println(zodiacSign);
         sc.close();
     }
 }
