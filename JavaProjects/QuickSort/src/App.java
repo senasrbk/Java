@@ -1,4 +1,3 @@
-import java.util.Scanner;
 
 public class App {
     static void swap(int[] arr, int i, int j) {
