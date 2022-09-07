@@ -1,22 +1,28 @@
-
 public class App {
+    static boolean isPalindrome(String str) {
+        int i = 0, j = str.length() - 1;
+        while (i < j) {
+            if (str.charAt(i) != str.charAt(j))
+                return false;
+            i++;
+            j--;
+        }
+        return true;
+    }
 
-    static boolean isPalindrome(int number) {
-        int temp = number, reverse = 0, last;
-        while (temp != 0) {
-            last = temp % 10;
-            reverse = (reverse * 10) + last;
-            temp /= 10;
+    static boolean isPalindrome2(String str) {
+        String reverse = "";
+        for (int i = str.length() - 1; i >= 0; i--) {
+            reverse += str.charAt(i);
         }
 
-        if (number == reverse) {
+        if (str.equals(reverse))
             return true;
-        } else
+        else
             return false;
     }
 
     public static void main(String[] args) {
-        isPalindrome(4918);
+        System.out.println(isPalindrome("abba"));
     }
-
 }
