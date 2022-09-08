@@ -1,8 +1,30 @@
 # JavaProjects
 
-1.  Not Ortalaması
-2.  KDV Hesaplama
-3.  Ucgen Alanı
-4.  Taximeter
-5.  Daire
-6.  BodyMassIndex
+BodyMassIndex
+BoxingMatch
+Calculator
+CalculatorExp
+ChineseZodiac
+Daire
+Exercise
+Fibonacci
+KDVHesaplama
+LeapYear
+Manav
+MinesweeperGame
+NumberGame
+OBS
+Ortalama
+Palindrom
+PalindromicWords
+PassClass
+PowerNumber
+PrimeNumber
+QuickSort
+Sort
+Taximeter
+UcgenAlan
+UserLogin
+WageCalculator
+Weather
+ZodiacSign
