@@ -1,30 +1,30 @@
 # JavaProjects
 
-BodyMassIndex
-BoxingMatch
-Calculator
-CalculatorExp
-ChineseZodiac
-Daire
-Exercise
-Fibonacci
-KDVHesaplama
-LeapYear
-Manav
-MinesweeperGame
-NumberGame
-OBS
-Ortalama
-Palindrom
-PalindromicWords
-PassClass
-PowerNumber
-PrimeNumber
-QuickSort
-Sort
-Taximeter
-UcgenAlan
-UserLogin
-WageCalculator
-Weather
-ZodiacSign
+1. BodyMassIndex
+2. BoxingMatch
+3. Calculator
+4. CalculatorExp
+5. ChineseZodiac
+6. Daire
+7. Exercise
+8. Fibonacci
+9. KDVHesaplama
+10. LeapYear
+11. Manav
+12. MinesweeperGame
+13. NumberGame
+14. OBS
+15. Ortalama
+16. Palindrom
+17. PalindromicWords
+18. PassClass
+19. PowerNumber
+20. PrimeNumber
+21. QuickSort
+22. Sort
+23. Taximeter
+24. UcgenAlan
+25. UserLogin
+26. WageCalculator
+27. Weather
+28. ZodiacSign
